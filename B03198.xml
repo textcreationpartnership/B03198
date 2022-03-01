@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exclamation from Tunbridge and Epsom against the newfound wells at Islington.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03198</idno>
+            <idno type="STC">Wing E3846</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.161.f.2[73]</idno>
+            <idno type="EEBO-CITATION">99884731</idno>
+            <idno type="PROQUEST">ocm99884731</idno>
+            <idno type="VID">182462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03198)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182462)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[75])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exclamation from Tunbridge and Epsom against the newfound wells at Islington.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. How,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Your old friends and tres-humble servants, Tunbridge and Epsom.</note>
+                  <note>Imperfect: mutilated, affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mineral waters --  England --  Islington (London) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:182462:1" rendition="simple:additions"/>
+            <head>AN EXCLAMATION From TUNBRIDGE And EPSOM Againſt The Newfound Wells At ISLINGTON.</head>
+            <p>BEhold, the fickleneſs of <hi>Fortunes</hi> Wheel! The Inſtability of things under the <hi>changeable</hi> Moon! So ſhall you find it foretold in <hi>Mother Shiptons, Manuſcript</hi>-Prophecies, (never yet Printed) p. 409.
+<q>
+                  <l>"<hi>Tunbridge</hi> was, <hi>Epſom</hi> is, <hi>Iſlington</hi> ſhall be</l>
+                  <l>"The greateſt <hi>Bog-houſe</hi> of the <hi>ſquittering</hi> three.</l>
+               </q>
+            </p>
+            <p>Beſhrew all <hi>Witches</hi> and their <hi>Southſayings.</hi> That Prognoſtication at this juncture ſeems haſtening to its accompliſhment; and then, <hi>wo and alas!</hi> What ſhall become of us poor <hi>Tunbridge</hi> and <hi>Epſom?</hi>
+            </p>
+            <p>How comfortably in times by-paſt, have we liv'd all the Summer, like <hi>Fiſhes,</hi> meerly by <hi>Wa<g ref="char:EOLhyphen"/>ter and Tippling;</hi> And in the Winter, like Green<g ref="char:EOLhyphen"/>land <hi>Bears,</hi> ſucking our own <hi>Claws? Loretto</hi> was ſcarce haunted with ſuch ſwarms of Pilgrims as our <hi>Health-reſtoring Plains,</hi> nor <hi>Rome</hi> more crowd<g ref="char:EOLhyphen"/>ed in a <hi>Jubilee,</hi> than we were, from <hi>merry May</hi> till after the <hi>Dog-ſtarr</hi> had done <hi>Barking,</hi> and the more important Negotiations of <hi>Bartoldom-fair,</hi> called home our Cuſtomers. Happy were they that could get ſhelter in our <hi>Illuſtrious Pallaces,</hi> covered with immortal <hi>Thatch,</hi> and delicately hung with the Spinſtry of <hi>Arachne,</hi> Vulgarly cal<g ref="char:EOLhyphen"/>led <hi>Cloath of Cob-web.</hi> Three Families not ſeldom dwelt in one Chamber ſcarce ſo big as a Taffity Tart; and without any ſuperſtitious niceneſs about difference of <hi>Sex,</hi> lovingly <hi>pigg'd</hi> in toge<g ref="char:EOLhyphen"/>ther. Strangers from remote Regions, came in <hi>Guilt Coaches,</hi> to DUNG our barren <hi>Heaths</hi> for us, at their own charge; and having given us 3. or 4. pounds for a Supper over-night, retur<g ref="char:EOLhyphen"/>ned us the ſubſtance of it, with an overplus, next morning <hi>Gratis;</hi> many <hi>a fair Houſe</hi> have we built with that which is called <hi>the beginning of Love;</hi> and made more profit of <hi>Excrements</hi> than ever the Emperour <hi>Veſpatian</hi> did of his Exciſe upon <hi>Piſs.</hi>
+            </p>
+            <p>We ſhall never forget thoſe jolly dayes, how we have been frequented by the <hi>Noble</hi> and the <hi>Gay,</hi> the <hi>fine</hi> and the <hi>fair;</hi> the roaring <hi>Fopps,</hi> and the ſtill, ſly, formall <hi>Cockcombs;</hi> the <hi>Swaggerers</hi> in <hi>Buff,</hi> and the <hi>Venerable</hi> in <hi>Satin;</hi> the Flaming <hi>Laſſes</hi> and the <hi>ſimpering</hi> Dames, thoſe that help others, and thoſe that help <hi>themſelves;</hi> the <hi>witts</hi> and the <hi>jilts,</hi> the fond Husbands and the more fooliſh <hi>maintainers,</hi> the miſerly <hi>Fathers,</hi> and the generous <hi>Sons,</hi> and the free-ſporting <hi>Daughters,</hi> and the procuring <hi>Cozens,</hi> the Hectoring <hi>Bullies,</hi> and the <hi>ſnuffling Preciſians;</hi> the long <hi>Hair,</hi> and the overgrown <hi>Ears; Whigg</hi> and <hi>Tory, Trim<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er</hi> and all, were every Mothers Son, our conſtant Cuſtomers.</p>
+            <p>The Ladies would <hi>fine-and-Recovery</hi> away their <hi>Joinctures,</hi> and part even with their <hi>pretious Stones,</hi> rather, than not have a <hi>Green Gown</hi> or two on our Banks; and a Citizen could as ſoon perſwade his <hi>Spouſe</hi> to forſwear <hi>Conventicles,</hi> as prevail with her not to viſit us once a year.</p>
+            <p>Here, the Buckram-bagg'd Lawyer <hi>Hoarſe</hi> with a circuites bawling, came to reſtore his voyce; but careſſing a ſmall <hi>Shee-friend</hi> more impaired it, and ſo fell into the hands of a <hi>Doctor,</hi> who <hi>went to Law</hi> with his <hi>Diſeaſe,</hi> and acted <hi>(Se<g ref="char:EOLhyphen"/>cundum Artem)</hi> all the Tricks, of <hi>Plea, Excep<g ref="char:EOLhyphen"/>tion, Demurrer, Interlocutory Order,</hi> and peremp<g ref="char:EOLhyphen"/>tory <hi>Conſideratum eſt,</hi> till <hi>Ignoramus</hi> diſpairing as much as ever his Client <hi>in forma Pauperis,</hi> and looking altogether as <hi>ſimply;</hi> happened to be taught by one of Sir <hi>Andrew Judds</hi> School-boys, that <hi>Telephus</hi> was hea'ld by the ruſt of the <hi>ſame</hi> Spear that wounded him; and that <hi>Pliny</hi> ſome<g ref="char:EOLhyphen"/>where ſayes, <hi>Vipers</hi> Fleſh is the beſt Remedy for the hurt of their <hi>Stings;</hi> whereupon repairing to the <hi>Crack,</hi> that beſtow'd the <hi>Clap,</hi> ſhe in 9 days, made him as ſound as a Roach, with a De<g ref="char:EOLhyphen"/>coction of <hi>Guiacum</hi> and a few <hi>Turpentine Pills.</hi>
+            </p>
+            <p>Here the over-fraighted <hi>Strumper</hi> (undone by
+<pb facs="tcp:182462:2"/>
+               <hi>doing;</hi> or ruin'd, like ſome improvident <hi>Shop<g ref="char:EOLhyphen"/>keepers,</hi> by graſping at too great a Trade) puts in to <hi>New-waſh, Carreen,</hi> and <hi>Tallow;</hi> and ſo returns a freſh and <hi>Blooming Virgin:</hi> Here diſap<g ref="char:EOLhyphen"/>pointed <hi>Wives,</hi> met with ſeaſonable Refreſh<g ref="char:EOLhyphen"/>ments; the <hi>Barren</hi> by vertue of our <hi>Metalſome</hi> Waters, and the application of an <hi>able Doctor</hi> behind a Buſh, found Nature relieved, grew Fruitfull and bleſt their <hi>rejoycing Husbands</hi> with many an hopefull <hi>Heir.</hi>
+            </p>
+            <p>But now all <hi>theſe Felicities</hi> are like to expire, Interlopers are abroad, and we muſt cry out as the Quack-Doctors doe—<hi>Beware of Counter<g ref="char:EOLhyphen"/>feits, for they ſwarm;</hi> could not folks be content to invent new <hi>Faſhions,</hi> and new <hi>Oaths,</hi> new <hi>Re<g ref="char:EOLhyphen"/>ligions</hi> and new Models of Government, but the Divel muſt put them upon finding out <hi>new Wells,</hi> and new <hi>Phyſical Waters,</hi> when there were old ones enough of all Conſcience, to have ſcowr'd their <hi>Guits,</hi> and purged their <hi>Purſes,</hi> and make work for the <hi>Doctors.</hi>
+            </p>
+            <p>Tell us, O you Sage <hi>Aſtrologers</hi> (who tother day prognoſticated the <hi>Turks Victories,</hi> and the Ruine of the moſt <hi>Christian King;</hi> you who hold a Bakers dozen of <hi>Coeleſtial-Houſes</hi> in <hi>Fee-ſimple,</hi> yet are ſcarce able to pay your Rent for one poor <hi>Louzy Cottage</hi> on Earth) tell us, I pray, what unlucky <hi>Starrs</hi> govern this <hi>capricious Age,</hi> and put people on ſuch <hi>plotting humours?</hi> For we are, many ways, bound to Curſe their pragmati<g ref="char:EOLhyphen"/>cal Influences; firſt <hi>Oatſes</hi> Plot for two or three years frighted away our <hi>Roman</hi> Communicants, Not a <hi>Shaveling Prieſt</hi> tho never ſo diſguiſed, durſt appear in our <hi>Walks;</hi> but was as afraid of our <hi>Springs,</hi> as the <hi>Devil</hi> is of their <hi>Holy-water:</hi> And then the <hi>Whiggs</hi> muſt goe <hi>Plott</hi> (with an Horſe<g ref="char:EOLhyphen"/>pox to 'em) and ſo wee loſe <hi>that party</hi> too: And now here comes a <hi>Third Plott,</hi> worſe (to us) than either of the other two, a Plott, a deviliſh, a damnable, a <hi>horrid Plott,</hi> to perſwade People (not that <hi>BOBBING</hi> is SALAMANCA, or FORTY ONE EIGHTY THREE, but) that <hi>Sadlers</hi> Muſique-houſe is <hi>Southborrow,</hi> and <hi>Clarkenwell-Green, Caverly-Plain;</hi> That <hi>Abana</hi> and <hi>Pharpar</hi> (Rivers of Damaſcus) are equal to old <hi>Jordan,</hi> That <hi>Iſlington,</hi> forſooth, is commenc'd <hi>Epſom, per Saltum,</hi> as <hi>Fools</hi> be<g ref="char:EOLhyphen"/>come Phyſicians and <hi>golden Dunces, woodden Doct<g ref="char:EOLhyphen"/>ers</hi> at <hi>Leiden;</hi> That the juice of a few <hi>Cowturds,</hi> mixt with a ſham of <hi>Steel-duſt,</hi> and ſteept in a new-vamp'd <hi>Well,</hi> that in all likelyhood was an old <hi>Houſe of Office;</hi> can bee effectual as our <hi>won<g ref="char:EOLhyphen"/>der-working Fountains</hi> that taſt of <hi>cold Iron,</hi> and breath pure <hi>Nitre</hi> and <hi>Sulphur.</hi>
+            </p>
+            <p>Audacious and unconſcionable <hi>Iſlington!</hi> was it not enough that thou haſt time out of mind been the <hi>Metropolitan Mart</hi> of Cakes, Cuſtards, and ſtew'd Pruans? The chief place of entertain<g ref="char:EOLhyphen"/>ment for <hi>Suburb Bawds,</hi> and Loitering <hi>Prentices?</hi> Famous for <hi>Bottle'd Ale</hi> that begins the <hi>Huzza!</hi> before one drinks the <hi>Health,</hi> and <hi>Statutable Cans,</hi> 9 at leaſt to a Quart That thou floweſt with delicious <hi>Milk</hi> extra<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> from rotten <hi>Tur<g ref="char:EOLhyphen"/>neps</hi> and Hogwaſh <hi>Grains</hi> Renowned for <hi>Mid<g ref="char:EOLhyphen"/>dletons pipes,</hi> and putting forth both <hi>Calves</hi> and <hi>Baſtards</hi> to Nurſe? Could not all theſe Advan<g ref="char:EOLhyphen"/>tages ſatisfie thee without invading our privi<g ref="char:EOLhyphen"/>ledges, and trumping up your <hi>Spouts</hi> and old dormant <hi>Holes,</hi> to Intercept our <hi>Cuſtomers,</hi> and utterly ſpoil our Antient Staple Manufactory of <hi>Spewing</hi> and <hi>Shit—g?</hi> But ſuppoſe their <hi>Waters</hi> could be conceited ſomewhat comparable where is the <hi>Air?</hi> Where the <hi>Diverſions?</hi> Where the <hi>Conveniencies?</hi> If an honeſt Man walk out at <hi>five,</hi> he ſhall be expected back at eight to <hi>What-dee-lack-it</hi> in his Shop, where he ſits forall the world like a <hi>Lord in a Hutch;</hi> Beſides, <hi>Duns,</hi> and <hi>Serjeants,</hi> and <hi>Marſhals-Men</hi> lye perdue all along the Coaſt, and make his Walk as perillous as a Voi<g ref="char:EOLhyphen"/>age to <hi>Scanderoon.</hi> If a vertuous woman repair thither, ſince going to St. <hi>Antlins,</hi> and Morning Lectures is out of faſſion, ſome <hi>Eves dropping</hi> Neighbour thruſts in for a Companion, but proves indeed <hi>a ſpy,</hi> and ſhe muſt hurry home by Dinner, or elſe the good Man runs <hi>Horn-mad,</hi> and where's a body's Injoyment then?</p>
+            <p>Is trotting to <hi>Iſlington</hi> on foot with a dull Hus<g ref="char:EOLhyphen"/>band, or a froward Wife, a <hi>durty-fiſted</hi> Prentice, or a <hi>blabbing</hi> Maid, for two or three hours, com<g ref="char:EOLhyphen"/>parable to the delights of being <hi>Jog'd</hi> and <hi>Jolted</hi> in a Coach, and with brave Company <hi>trundled</hi> down <hi>Madamſcourt-Hill,</hi> or over <hi>Banſted-downs?</hi> And ſtaying out a Month or two, without being troubled with the <hi>peiviſh Yoak-fellow,</hi> ſave only on Saturday and Sunday Nights (on which you are ſure to be very Sick) and all the reſt of the Week as blyth as Datchellors, and free and uncontroul<g ref="char:EOLhyphen"/>ed as the moſt abſolute Monarches of the <hi>Eaſt,</hi> having nothing to doe, but Cajole the beleiving Fopp at home with a few kind Lines, for a ſup<g ref="char:EOLhyphen"/>ply of Caſh, dictated by the obliging <hi>Miſs</hi> or <hi>Gallant,</hi> to make the Sport more divertive.</p>
+            <p>Conſider well all theſe Advantages of a remo<g ref="char:EOLhyphen"/>ter diſtance, conſult your Intereſt, and abandon this upſtart <hi>Haereſy</hi> of Flocking to <hi>Iſlington,</hi> tell your Friends what ſtange rumblings thoſe <hi>Waters</hi> make in your Bellies and your Brains; believe it the <hi>Papiſts</hi> or the <hi>Whiggs</hi> (as Chronicles tells us, the <hi>Jews</hi> did of old) have poiſoned thoſe <hi>Wells;</hi> and that all their operation proceeds either from <hi>Jeſuites powder,</hi> or <hi>phanatical Quickſilver.</hi>
+            </p>
+            <p>Return therefore to your good old Cuſtomes: Let us enjoy your Company, and take you the uſual divertiſements of undiſturbed Society, ſo ſhall wee ſuſpend our Complaints, and you bee better gratified by continuing a Converſe with</p>
+            <closer>
+               <signed>Your Old Friends and Treſ-Humble Servants,
+<list>
+                     <item>
+                        <hi>TUNBRIDGE</hi> and</item>
+                     <item>
+                        <hi>EPSOM.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. How,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
